@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://forthebadge.com/images/badges/made-with-python.svg">
 </p>
+
 # Simple ChatBot with Python and Google Search and voice assistant 
 Build a simple ChatBot with Python that uses Google Search as its brain. The app consists of a Python 3 server and a GUI interface.
 
