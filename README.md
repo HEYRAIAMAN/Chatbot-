@@ -6,7 +6,7 @@
 Build a simple ChatBot with Python that uses Google Search as its brain. The app consists of a Python 3 server and a GUI interface.
 
 # Interface of application 
-![Application](Chat%20.png)
+![Interface](chat%20.png)
 
 ## Features
 - speech_recognition
