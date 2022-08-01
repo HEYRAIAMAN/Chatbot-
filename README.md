@@ -2,4 +2,4 @@
 Build a simple ChatBot with Python that uses Google Search as its brain. The app consists of a Python 3 server and a GUI interface.
 
 
-![](Chat.png)
+![](chat%20.png)
